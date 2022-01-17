@@ -1,0 +1,67 @@
+/*::::::::::::::::::::::::::::::::::::::::::::FORMULARIO::::::::::::::::::::::::::::::::::::::::::::::::*/
+
+.form-formulario{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 25px 27% 25px 27%;
+    padding: 20px 20px 20px 20px;
+    background: lightgrey;
+}
+
+.register-formulario{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 0 20px 0;
+    background: #7ABA96;
+}
+
+.comment-formulario{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 0 20px 0;
+    background: #7ABA96;
+}
+
+
+.title-formulario{
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-bottom: 20px;
+    border-bottom: 1px solid black ;
+}
+
+.control-formulario{
+    margin: 20px 20% 20px 20%;
+    float: left;
+}
+
+.button-formulario{
+   margin: 10px 40% 0 40%;
+}
+
+.attention-formulario{
+    padding-left: 20px;
+}
+
+.comentario-formulario{
+    display: flex;
+    flex-direction: column;
+    padding: 20px 20px 20px;
+}
+
+.caja-formulario{
+    margin: 10px 30% 10px 0;
+}
+
+.button2-formulario{
+    margin-right: 220px;
+    margin-left: 220px ; 
+}

@@ -1,0 +1,90 @@
+/*::::::::::::::::::::::::::::::::::::::::::RECETA::::::::::::::::::::::::::::::::::::::::::::::::::::*/
+.title-receta{
+    font-size: 30px;
+    text-align: center;
+}
+
+.date-receta{
+    font-size: 17px;
+    color: #8A8070;
+    margin: 5px;
+    margin-left: 330px;
+}
+
+.intro2-receta{
+    font-size: 20px;
+    text-align: center;
+    padding: 20px 20px;
+    margin-top: 25px;    
+    border-bottom: 1px solid black;
+}
+
+.figintro-receta{
+    text-align: center;
+}
+
+.texto-receta{
+    font-size: 17px;
+    text-align: center;
+    margin: 20px 15% 20px 15%;
+}
+
+.datosgen-receta{
+    display: flex;
+    justify-content: center;
+    margin: 50px 15% 50px 15%;
+    padding-left: 7%;
+    padding-right: 9%;
+    border: 1px solid black; 
+    display: flex;
+    flex-direction: column ;
+}
+
+.sect-receta{
+    padding-bottom: 40px;
+}
+
+.sect2-receta{
+    padding-bottom: 40px;
+    border-top: 1px solid black;
+}
+
+.ing-receta{
+    display: flex;
+    flex-direction: row;
+}
+
+.utensilios-receta{
+    margin-right: 107px;
+}
+
+.titlegen-receta{
+    font-size: 25px;
+}
+
+.textodatos-receta{
+    font-size: 15px;
+    padding-bottom: 20px;
+    margin: 10px;
+}
+
+.datos-receta{
+    margin-bottom: 145px;
+    margin-right: -100px;
+    margin-top: 20px;
+    padding: 25px 50px 25px 50px;
+    border: 1px solid black; 
+    background: lightgray;
+}
+
+.datosinfo-receta{
+    display: flex;
+    flex-direction: row;  
+}
+
+.textodatos2-receta{
+    font-size: 15px;
+    margin: 10px 0 10px 0;
+    text-align: right;
+}
+
